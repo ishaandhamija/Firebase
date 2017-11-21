@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "204817431240",
+    "firebase_url": "https://ccdf-63fd0.firebaseio.com",
+    "project_id": "ccdf-63fd0",
+    "storage_bucket": "ccdf-63fd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204817431240:android:158b394a91023419",
+        "android_client_info": {
+          "package_name": "com.tino.cardcardfrauddetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204817431240-dq4brj2dqjg8sv8eg1dv415p5id8rda9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tino.cardcardfrauddetection",
+            "certificate_hash": "d24e81a42e129b164468756eef91f67818afa594"
+          }
+        },
+        {
+          "client_id": "204817431240-f9n5hdi9lkkrnnli9busf6l2rmqgtqm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlsvQAnCDB5R2Zm35zoym6ki1h2kooCCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204817431240-f9n5hdi9lkkrnnli9busf6l2rmqgtqm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
